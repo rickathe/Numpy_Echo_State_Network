@@ -1,2 +1,1 @@
-## Echo State Network
-
+## NumPy-Based Echo State Network
